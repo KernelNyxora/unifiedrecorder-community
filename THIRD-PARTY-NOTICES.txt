@@ -1,0 +1,29 @@
+UnifiedRecorder Community Edition — Third-Party Notices
+
+Original UnifiedRecorder code and assets are licensed under the MIT License.
+The full project license is in LICENSE. The following dependencies retain
+their own licenses, whose full texts are in third_party/licenses/.
+
+Go 1.26.2 standard library and vendored golang.org/x/crypto, x/net,
+x/sys, and x/text packages used by the built binaries
+  Copyright 2009 The Go Authors.
+  BSD 3-Clause license: third_party/licenses/Go-BSD-3-Clause.txt
+  Source: https://go.dev/
+
+github.com/go-sql-driver/mysql
+  v1.9.3 is used by unifiedrecorder-web.
+  v1.9.0 is used by active-recorder.
+  Mozilla Public License 2.0: third_party/licenses/mysql-MPL-2.0.txt
+  Unmodified MPL-covered source is available at:
+    https://github.com/go-sql-driver/mysql/releases/tag/v1.9.3
+    https://github.com/go-sql-driver/mysql/releases/tag/v1.9.0
+
+filippo.io/edwards25519 v1.1.0
+  Copyright (c) 2009 The Go Authors. All rights reserved.
+  BSD 3-Clause license: third_party/licenses/edwards25519-BSD-3-Clause.txt
+  Source: https://filippo.io/edwards25519
+
+The recording engine, FFmpeg, and MySQL Server are not bundled in this repository or
+its install archive. The installer obtains them from the target operating
+system's package repositories. Their distribution terms are supplied by
+those packages.
