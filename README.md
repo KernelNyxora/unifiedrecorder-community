@@ -8,7 +8,7 @@ Capture, find, play, and download recordings from a focused dashboard.</p>
 <p align="center">
   <a href="https://github.com/KernelNyxora/unifiedrecorder-community/releases"><img src="https://img.shields.io/badge/Download-Linux_x86--64-00B8D8?style=flat-square" alt="Download Linux x86-64"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-14B8A6?style=flat-square" alt="MIT License"></a>
-  <a href="https://community.unifiedrecorder.com/"><img src="https://img.shields.io/badge/Community-Live_demo-F59E0B?style=flat-square" alt="Community demo"></a>
+  <a href="https://community.unifiedrecorder.com/"><img src="https://img.shields.io/badge/Community-Demo-F59E0B?style=flat-square" alt="Community demo"></a>
   <a href="https://demo.unifiedrecorder.com/"><img src="https://img.shields.io/badge/Explore-Pro_demo-7357D6?style=flat-square" alt="Explore Pro demo"></a>
 </p>
 
